@@ -1,0 +1,67 @@
+body{
+  background: rgb(245,245,245);
+  color: 8D3B72;
+  font-size: 25px;
+  font-family: 'Comfortaa', cursive;
+}
+h1{
+  font-family: 'Comfortaa', cursive;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  color: 772E25 E4572E;
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.symbol{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+
